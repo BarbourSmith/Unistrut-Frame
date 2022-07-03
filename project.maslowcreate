@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "One Leg",
-            "x": 0.27645502645502645,
-            "y": 0.43692307692307697,
+            "x": 0.19047619047619047,
+            "y": 0.3076923076923077,
             "uniqueID": 810925,
             "ioValues": [],
             "topLevel": false,
@@ -134,7 +134,7 @@
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 14
+                            "ioValue": 18
                         },
                         {
                             "name": "z-axis degrees",
@@ -145,8 +145,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5271164021164021,
-                    "y": 0.4246153846153847,
+                    "x": 0.5317460317460317,
+                    "y": 0.41538461538461535,
                     "uniqueID": 913205,
                     "ioValues": [
                         {
@@ -163,7 +163,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 5
+                            "ioValue": 7
                         }
                     ]
                 },
@@ -222,8 +222,8 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5436507936507936,
-                    "y": 0.7169230769230769,
+                    "x": 0.5343915343915343,
+                    "y": 0.7015384615384614,
                     "uniqueID": 294786,
                     "ioValues": [
                         {
@@ -232,7 +232,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 500
+                            "ioValue": 558
                         },
                         {
                             "name": "yDist",
@@ -240,7 +240,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 6
+                            "ioValue": -10
                         }
                     ]
                 },
@@ -414,5 +414,5 @@
     "simplify": false,
     "unitsIndex": 0,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.001"
+    "circleSegmentSize": "0.101"
 }
